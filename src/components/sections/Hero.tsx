@@ -80,7 +80,7 @@ export function Hero() {
 
           <FadeIn delay={0.1} direction="left" className="relative h-[500px] lg:h-[620px] rounded-3xl overflow-hidden shadow-float">
             <Image
-              src="/images/hero-dairy.jpg"
+              src="/images/hero-main.jpg"
               alt="Dairy farm operation with milking parlor and herd"
               fill
               className="object-cover"
